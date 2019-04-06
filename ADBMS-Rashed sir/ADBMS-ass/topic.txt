@@ -1,0 +1,8 @@
+Assignment, 
+Strict Submission Deadline. 7 April, 2019.
+Please, circulate it to your <MS-1st Semester Student> group.
+
+A. Why reliability and availability are important for Distributed Database Management System?
+B. Explain. MTBF and MTTR for Distributed Database Management System.
+C. What are the purposes of data replication for Distributed Database management system?
+D. Discuss Mutual Consistency of Replicated Database
